@@ -5,7 +5,7 @@ import NavbarComponent from "./components/ui/Navbar.component";
   return (
     <div className="App">
       <NavbarComponent/>
-       {/* wrapper */}
+      <h2>wrapper</h2>
        <FooterComponent/>
     </div>
   );
