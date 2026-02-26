@@ -1,4 +1,5 @@
 import React from 'react';
+import SpinnerComponent from '../components/ui/Spinner.component';
 const HomePage = () => {
     return (
         <>
