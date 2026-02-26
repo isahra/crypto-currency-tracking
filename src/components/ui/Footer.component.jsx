@@ -1,9 +1,10 @@
 import React from 'react';
+import '../../Styles/Footer.css';
 const FooterComponent = () => {
     return ( 
-        <>
-        <h2>footer</h2>
-        </>
+        <footer className="footer">
+            <p>sahra crypto tracking . all rights reserved.</p>
+        </footer>
      );
 }
  
